@@ -1,0 +1,33 @@
+/* In your CSS file or style block */
+header {
+    background-color: gray;
+    color: white;
+    padding: 10px; /* Add some padding for spacing */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Adjust spacing between menu items */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+/* For screens smaller than 768px (typical mobile screens) */
+@media (max-width: 768px) {
+    nav ul li {
+        display: block; /* Show menu items vertically */
+        margin-bottom: 10px; /* Add spacing between items */
+    }
+}
+nav ul li a:hover {
+    color: lightgray;
+}
