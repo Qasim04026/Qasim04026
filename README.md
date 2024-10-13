@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Qasim04026
+- 👀 I’m interested in coding and Programming Languages
+- 🌱 I’m currently learning Next.js
