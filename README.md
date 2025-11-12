@@ -70,5 +70,3 @@ I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BS
 - Always exploring new technologies and tools
 
 ---
-
-"Code is like humor. When you have to explain it, it's bad." – Cory House
