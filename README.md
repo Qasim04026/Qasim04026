@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Qasim]
+# Hi, I'm [Your Name]
 
 ## About Me
 I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BSc in Computer Science. With a background in Mechanical Engineering (DAE), I bring a unique problem-solving perspective to software development. I'm constantly learning and exploring the intersection of web technologies and artificial intelligence.
@@ -22,14 +22,21 @@ I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BS
 - Agentic AI Systems
 - Prompt Engineering
 - AI-Assisted Development
-- Claude CLI & Gemini CLI
 - Large Language Models (LLMs)
+- AI Code Generation
+
+### AI Development Tools
+- Claude CLI (Anthropic)
+- Gemini CLI (Google)
+- AI-Powered Coding Workflows
+- Conversational AI Integration
 
 ### Tools & Platforms
 - Git & GitHub
 - VS Code
 - Command Line Interface (CLI)
 - Version Control
+- Terminal-based AI Tools
 
 ## Currently Learning
 - Advanced TypeScript patterns and best practices
@@ -39,10 +46,12 @@ I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BS
 - Building scalable applications with Python backends
 
 ## What I'm Working On
-- Exploring AI-powered development workflows using Claude CLI and Gemini CLI
+- Leveraging Claude CLI and Gemini CLI for AI-powered development workflows
 - Building modern web applications with Next.js and TypeScript
 - Implementing intelligent automation using agentic AI systems
+- Using terminal-based AI tools to enhance coding productivity and efficiency
 - Creating efficient, user-centric solutions that combine traditional development with AI capabilities
+- Exploring prompt engineering patterns for optimal AI-assisted coding
 
 ## My Approach
 - Problem-First Mindset: Understanding the problem deeply before coding
@@ -56,6 +65,7 @@ I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BS
 - Contribute to open-source projects
 - Deep dive into prompt engineering and agentic AI systems
 - Strengthen Python backend development skills
+
 
 ## Achievements
 - Pursuing BSc in Computer Science
