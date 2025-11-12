@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [Muhammad Qasim]
 
 ## About Me
 I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my BSc in Computer Science. With a background in Mechanical Engineering (DAE), I bring a unique problem-solving perspective to software development. I'm constantly learning and exploring the intersection of web technologies and artificial intelligence.
